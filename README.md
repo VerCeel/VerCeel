@@ -1,22 +1,24 @@
-## Hi there 👋
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&duration=3000&pause=1000&color=DFDFDF&center=true&vCenter=true&width=435&lines=I+AM+HIRICH+OUSSAMA;FULLSTACK+DEVELOPER;PRO+CYCLIST;PRO+ELECTRICIAN;CHESS+PLAYER;GAMER" alt="Typing SVG" /></p>
 
-
-**VerCeel/VerCeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...    
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 📊 GitHub Stats:
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=verceel&theme=dark" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=verceel&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verceel&theme=dark&layout=compact" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=verceel&theme=dark&hide_border=false&layout=compact"
+        width="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=verceel&theme=dark&hide_border=false"
+        width="250"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=verceel&theme=dark&hide_border=false"
+        width="228"
+      />
+    </td>
+  </tr>
+</table>
