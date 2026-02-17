@@ -1,1 +1,1 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&duration=3000&pause=1000&color=DFDFDF&center=true&vCenter=true&width=435&lines=I+AM+HIRICH+OUSSAMA;FULLSTACK+DEVELOPER;PRO+CYCLIST;PRO+ELECTRICIAN;CHESS+PLAYER;GAMER" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&duration=3000&pause=1000&color=DFDFDF&center=true&vCenter=true&width=435&lines=I+AM+HIRICH+OUSSAMA;FULLSTACK+DEVELOPER;PRO+ELECTRICIAN;CHESS+PLAYER;GAMER" alt="Typing SVG" /></p>
